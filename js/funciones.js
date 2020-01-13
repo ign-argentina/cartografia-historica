@@ -1,7 +1,7 @@
 var carta;
 var strNroOrden;
 var maxZoom;
-var baseUrl = "http://www.ign.gob.ar";
+var baseUrl = "https://www.ign.gob.ar";
 
 var datos;
 $.getJSON("./data/galeria.json", function(json){
@@ -23,7 +23,7 @@ function agregarCarta(strNroOrden) {
    maxZoom: maxZoom,
    tms: true,
    noWrap: true,
-   attribution: '<a href="http://www.ign.gob.ar" target="_blank">Instituto Geográfico Nacional de la República Argentina</a>'
+   attribution: '<a href="https://www.ign.gob.ar" target="_blank">Instituto Geográfico Nacional de la República Argentina</a>'
  }).addTo(map);
  map.setView([0,0],2);
 }

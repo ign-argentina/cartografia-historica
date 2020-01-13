@@ -2,7 +2,7 @@
 	{
 		"nroOrden": 1,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/001/001.png",
+		"imagen": "https://www.ign.gob.ar/teselas/001/001.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa de los ferro-carriles, correos y telégrafos de la República Argentina",
 		"titulo": "Mapa de los ferro-carriles, correos y telégrafos de la República Argentina : formado con los datos oficiales más recientes",
@@ -15,7 +15,7 @@
 	{
 		"nroOrden": 2,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/002/002.png",
+		"imagen": "https://www.ign.gob.ar/teselas/002/002.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa general de la Republica Argentina",
 		"titulo": "Mapa general de la Republica Argentina / Paz Soldan ",
@@ -29,7 +29,7 @@
 	{
 		"nroOrden": 3,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/003/003.png",
+		"imagen": "https://www.ign.gob.ar/teselas/003/003.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa general de la Republica Argentina",
 		"titulo": "Mapa general de la Republica Argentina : determinando la ubicación de las colonias nacionales : con arreglo a los rios, ferro-carriles y puntos principales / confeccionado por el Departamento de Tierras, Colonias y Agricultura ",
@@ -42,7 +42,7 @@
 	{
 		"nroOrden": 4,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/004/004.png",
+		"imagen": "https://www.ign.gob.ar/teselas/004/004.png",
 		"minLatLng": "-90, -180",
 		"maxLatLng": "",
 		"categoria": "cat-a",
@@ -57,7 +57,7 @@
 	{
 		"nroOrden": 5,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/005/005.png",
+		"imagen": "https://www.ign.gob.ar/teselas/005/005.png",
 		"categoria": "cat-a",
 		"tituloCorto": "República Argentina",
 		"titulo": "República Argentina / dibujado y publicado por A. Fernandez",
@@ -70,7 +70,7 @@
 	{
 		"nroOrden": 6,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/006/006.png",
+		"imagen": "https://www.ign.gob.ar/teselas/006/006.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa de los ferrocarriles en explotacion",
 		"titulo": "Mapa de los ferrocarriles en explotacion / Ministerio de Obras Públicas, Direccion General de Ferrocarriles",
@@ -83,7 +83,7 @@
 	{
 		"nroOrden": 7,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/007/007.png",
+		"imagen": "https://www.ign.gob.ar/teselas/007/007.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa de la República Argentina",
 		"titulo": "Mapa de la República Argentina : editado en el 25 aniversario de “Colibrí”,  anilinas y pomadas para calzado",
@@ -96,7 +96,7 @@
 	{
 		"nroOrden": 8,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/008/008.png",
+		"imagen": "https://www.ign.gob.ar/teselas/008/008.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa de la República Argentina",
 		"titulo": "Mapa de la República Argentina : preparado para la Armada Nacional / por el Instituto Geográfico Nacional",
@@ -109,7 +109,7 @@
 	{
 		"nroOrden": 9,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/009/009.png",
+		"imagen": "https://www.ign.gob.ar/teselas/009/009.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa general de la Republica Argentina",
 		"titulo": "Mapa general de la Republica Argentina ",
@@ -122,7 +122,7 @@
 	{
 		"nroOrden": 10,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/010/010.png",
+		"imagen": "https://www.ign.gob.ar/teselas/010/010.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa de la República Argentina",
 		"titulo": "Mapa de la República Argentina : 1950 Año del Libertador General San Martín / Ejército Argentino, Instituto Geográfico Militar",
@@ -137,7 +137,7 @@
 	{
 		"nroOrden": 11,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/011/011.png",
+		"imagen": "https://www.ign.gob.ar/teselas/011/011.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa de la República Argentina",
 		"titulo": "Mapa de la República Argentina : edición especial para el Ministerio de Educación de la Nación = 1950 : año del libertador General San Martin",
@@ -150,7 +150,7 @@
 	{
 		"nroOrden": 12,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/012/012.png",
+		"imagen": "https://www.ign.gob.ar/teselas/012/012.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa de la República Argentina",
 		"titulo": "Mapa de la República Argentina / Ejército Argentino, Instituto Geográfico Militar",
@@ -165,7 +165,7 @@
 	{
 		"nroOrden": 13,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/013/013.png",
+		"imagen": "https://www.ign.gob.ar/teselas/013/013.png",
 		"categoria": "cat-a",
 		"tituloCorto": "Mapa general de la Republica Argentina",
 		"titulo": "Mapa general de la Republica Argentina",
@@ -178,7 +178,7 @@
 	{
 		"nroOrden": 14,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/014/014.png",
+		"imagen": "https://www.ign.gob.ar/teselas/014/014.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa mural de la provincia de Buenos Aires",
 		"titulo": "Mapa mural de la provincia de Buenos Aires / construido bajo la direccion de Enrique Delachaux",
@@ -191,7 +191,7 @@
 	{
 		"nroOrden": 15,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/015/015.png",
+		"imagen": "https://www.ign.gob.ar/teselas/015/015.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa mural de la provincia de Buenos Aires",
 		"titulo": "Mapa mural de la provincia de Buenos Aires : publicado por Angel Estrada y Cia.",
@@ -204,7 +204,7 @@
 	{
 		"nroOrden": 16,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/016/016.png",
+		"imagen": "https://www.ign.gob.ar/teselas/016/016.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Plano catastral de la provincia de Buenos Aires",
 		"titulo": "Plano catastral de la provincia de Buenos Aires / construido y editado por la Oficina Tecnica de Gregorio Edelberg",
@@ -217,7 +217,7 @@
 	{
 		"nroOrden": 17,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/017/017.png",
+		"imagen": "https://www.ign.gob.ar/teselas/017/017.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Buenos Aires",
 		"titulo": "Provincia de Buenos Aires / Ejército Argentino, Instituto Geográfico Militar",
@@ -231,7 +231,7 @@
 	{
 		"nroOrden": 18,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/018/018.png",
+		"imagen": "https://www.ign.gob.ar/teselas/018/018.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Catamarca",
 		"titulo": "Mapa de la provincia de Catamarca / construido segun datos recogidos  y observaciones personales hechas en los años 1887-93 por Gunardo Lange, ingeniero, director de la seccion topográfica del Museo y dibujado por Enrique Delachaux, cartógrafo, director de la Seccion Cartográfica del mismo establecimiento",
@@ -245,7 +245,7 @@
 	{
 		"nroOrden": 19,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/019/019.png",
+		"imagen": "https://www.ign.gob.ar/teselas/019/019.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Catamarca",
 		"titulo": "Provincia de Catamarca: publicado por Angel Estrada y Cia. / construido segun los datos oficiales mas recientes y documentos auténticos por Carlos Beyer Ingeniero geógrafo de la Casa Editora ",
@@ -259,7 +259,7 @@
 	{
 		"nroOrden": 20,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/020/020.png",
+		"imagen": "https://www.ign.gob.ar/teselas/020/020.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Catamarca",
 		"titulo": "Provincia de Catamarca / Aquilino Fernandez",
@@ -273,7 +273,7 @@
 	{
 		"nroOrden": 21,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/021/021.png",
+		"imagen": "https://www.ign.gob.ar/teselas/021/021.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Catamarca",
 		"titulo": "Mapa de la provincia de Catamarca / Administracion General de Vialidad Nacional, 11a  Seccion",
@@ -286,7 +286,7 @@
 	{
 		"nroOrden": 22,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/022/022.png",
+		"imagen": "https://www.ign.gob.ar/teselas/022/022.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Plano general de la provincia de Córdoba",
 		"titulo": "Plano general de la provincia de Córdoba : República Argentina / Departamento Topografico ; Dr. Luis Brackebusch catedrático de la Universidad de Córdoba",
@@ -299,7 +299,7 @@
 	{
 		"nroOrden": 23,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/023/023.png",
+		"imagen": "https://www.ign.gob.ar/teselas/023/023.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Córdoba",
 		"titulo": "Mapa de la provincia de Córdoba / por Ulrico Greiner, Ing. ",
@@ -314,7 +314,7 @@
 	{
 		"nroOrden": 24,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/024/024.png",
+		"imagen": "https://www.ign.gob.ar/teselas/024/024.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa oficial de la provincia de Córdoba",
 		"titulo": "Mapa oficial de la provincia de Córdoba : aprobado por decretos del 18 de diciembre de 1905 y 15 de mayo de 1916 : publicación autorizada por Decreto enero 17 de 1919 y la ley Nº 2900 de agosto 30 de 1920 / Agr. Francisco S. Silva",
@@ -327,7 +327,7 @@
 	{
 		"nroOrden": 25,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/025/025.png",
+		"imagen": "https://www.ign.gob.ar/teselas/025/025.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Córdoba",
 		"titulo": "Provincia de Córdoba / Ejército Argentino, Instituto Geográfico Militar",
@@ -341,7 +341,7 @@
 	{
 		"nroOrden": 26,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/026/026.png",
+		"imagen": "https://www.ign.gob.ar/teselas/026/026.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Corrientes",
 		"titulo": "Mapa de la provincia de Corrientes / construido y dibujado por Francisco Fouilliand, agrimensor y Juan Col, jngeniero",
@@ -354,7 +354,7 @@
 	{
 		"nroOrden": 27,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/027/027.png",
+		"imagen": "https://www.ign.gob.ar/teselas/027/027.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Corrientes",
 		"titulo": "Provincia de Corrientes / construido por C. Beyer, ingeniero geógrafo de la casa editora ",
@@ -368,7 +368,7 @@
 	{
 		"nroOrden": 28,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/028/028.png",
+		"imagen": "https://www.ign.gob.ar/teselas/028/028.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Registro gráfico de la provincia de Corrientes",
 		"titulo": "Registro gráfico de la provincia de Corrientes : República Argentina / construido con los datos oficiales durante la Administración del Gobernador Doctor Mariano I. Loza por la Oficina de Tierras y Obras Públicas ; Ing. Civil Ernesto Schulte  ",
@@ -383,7 +383,7 @@
 	{
 		"nroOrden": 29,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/029/029.png",
+		"imagen": "https://www.ign.gob.ar/teselas/029/029.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Corrientes",
 		"titulo": "Mapa de la provincia de Corrientes : preparado para el Consejo Nacional de Educación / por el Instituto Geográfico Militar",
@@ -396,7 +396,7 @@
 	{
 		"nroOrden": 30,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/030/030.png",
+		"imagen": "https://www.ign.gob.ar/teselas/030/030.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Plano topografico catastral de la Provincia de Entre-Rios",
 		"titulo": "Plano topografico catastral de la Provincia de Entre-Rios / construido con los ultimos antecedentes por Bernardo Rigoli y Victorino C. Guzman",
@@ -409,7 +409,7 @@
 	{
 		"nroOrden": 31,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/031/031.png",
+		"imagen": "https://www.ign.gob.ar/teselas/031/031.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Entre Rios",
 		"titulo": "Provincia de Entre Rios",
@@ -422,7 +422,7 @@
 	{
 		"nroOrden": 32,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/032/032.png",
+		"imagen": "https://www.ign.gob.ar/teselas/032/032.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Entre Rios",
 		"titulo": "Provincia de Entre Rios : red caminera principal / Oficina Cartográfica del Automovil Club Argentino ; Dib. Raúl Miranda Gaete",
@@ -435,7 +435,7 @@
 	{
 		"nroOrden": 33,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/033/033.png",
+		"imagen": "https://www.ign.gob.ar/teselas/033/033.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Entre Ríos",
 		"titulo": "Provincia de Entre Ríos / Ejército Argentino, Instituto Geográfico Militar",
@@ -449,7 +449,7 @@
 	{
 		"nroOrden": 34,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/034/034.png",
+		"imagen": "https://www.ign.gob.ar/teselas/034/034.png",
 		"categoria": "cat-p",
 		"tituloCorto": "La provincia de Jujuy",
 		"titulo": "La provincia de Jujuy : (República Argentina) / levantada en los meses de setiembre hasta diciembre del año 1881 por el Dr. Luis Brackebusch profesor en la Universidad de Córdoba",
@@ -462,7 +462,7 @@
 	{
 		"nroOrden": 35,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/035/035.png",
+		"imagen": "https://www.ign.gob.ar/teselas/035/035.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Jujuy",
 		"titulo": "Provincia de Jujuy",
@@ -475,7 +475,7 @@
 	{
 		"nroOrden": 36,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/036/036.png",
+		"imagen": "https://www.ign.gob.ar/teselas/036/036.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa fisico y politico de la provincia de Jujuy",
 		"titulo": "Mapa fisico y politico de la provincia de Jujuy / construido por el Departamento de Obras Publicas de acuerdo a la resolución del Ministerio de Hacienda de la Intervencion Nacional  de fecha 14 de febrero del corriente año",
@@ -488,7 +488,7 @@
 	{
 		"nroOrden": 37,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/037/037.png",
+		"imagen": "https://www.ign.gob.ar/teselas/037/037.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Jujuy",
 		"titulo": "Mapa de la provincia de Jujuy / preparado e impreso por el Instituto Geográfico Militar",
@@ -501,7 +501,7 @@
 	{
 		"nroOrden": 38,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/038/038.png",
+		"imagen": "https://www.ign.gob.ar/teselas/038/038.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de La Rioja",
 		"titulo": "Provincia de La Rioja : publicado por Angel Estrada y Cia / por C. Beyer, ingeniero geógrafo de la casa editora",
@@ -515,7 +515,7 @@
 	{
 		"nroOrden": 39,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/039/039.png",
+		"imagen": "https://www.ign.gob.ar/teselas/039/039.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de La Rioja",
 		"titulo": "Provincia de La Rioja : publicado por Angel Estrada y Cia / construido segun los datos oficiales mas recientes y documentos auténticos por Carlos Beyer ingeniero geógrafo de la casa editora",
@@ -529,7 +529,7 @@
 	{
 		"nroOrden": 40,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/040/040.png",
+		"imagen": "https://www.ign.gob.ar/teselas/040/040.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de La Rioja",
 		"titulo": "Provincia de La Rioja / Aquilino Fernandez",
@@ -543,7 +543,7 @@
 	{
 		"nroOrden": 41,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/041/041.png",
+		"imagen": "https://www.ign.gob.ar/teselas/041/041.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de La Rioja",
 		"titulo": "Provincia de La Rioja / Ejército Argentino, Instituto Geográfico Militar",
@@ -557,7 +557,7 @@
 	{
 		"nroOrden": 42,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/042/042.png",
+		"imagen": "https://www.ign.gob.ar/teselas/042/042.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Mendoza",
 		"titulo": "Mapa de la provincia de Mendoza : levantado de conformidad con los datos mas autorizados oficiales ó privados y los calculos astronómicos y operaciones topográficas de los señores Olascoaga … [et al.] / Gobierno de Mendoza",
@@ -570,7 +570,7 @@
 	{
 		"nroOrden": 43,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/043/043.png",
+		"imagen": "https://www.ign.gob.ar/teselas/043/043.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Plano catastral de la provincia de Mendoza",
 		"titulo": "Plano catastral de la provincia de Mendoza : levantado bajo la Dirección Técnica del Ing. Roberto Guevara durante las Administraciones de los Gobernadores Sres. Elías Villanueva, Carlos Galigniana Segura, Emilio Civit y Rufino Ortega (hijo) / construido por  el Ing. C. de Chapeaurouge",
@@ -583,7 +583,7 @@
 	{
 		"nroOrden": 44,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/044/044.png",
+		"imagen": "https://www.ign.gob.ar/teselas/044/044.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Croquis de la Provincia de Mendoza",
 		"titulo": "Croquis de la Provincia de Mendoza : Viaje de Estado Mayor : IIIer. Curso / Escuela Superior de Guerra",
@@ -596,7 +596,7 @@
 	{
 		"nroOrden": 45,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/045/045.png",
+		"imagen": "https://www.ign.gob.ar/teselas/045/045.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Mendoza",
 		"titulo": "Provincia de Mendoza : Plano General y Red de Caminos / Mario Giachini Jefe de dibujo ; Dibujó Carlos C. Rampone",
@@ -609,7 +609,7 @@
 	{
 		"nroOrden": 46,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/046/046.png",
+		"imagen": "https://www.ign.gob.ar/teselas/046/046.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Salta",
 		"titulo": "Provincia de Salta : publicado por Angel Estrada y Cia.",
@@ -623,7 +623,7 @@
 	{
 		"nroOrden": 47,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/047/047.png",
+		"imagen": "https://www.ign.gob.ar/teselas/047/047.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Salta",
 		"titulo": "Mapa de la provincia de Salta / L. Acedo, dibujante",
@@ -636,7 +636,7 @@
 	{
 		"nroOrden": 48,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/048/048.png",
+		"imagen": "https://www.ign.gob.ar/teselas/048/048.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Salta",
 		"titulo": "Salta / dib. A. Cannizzaro",
@@ -649,7 +649,7 @@
 	{
 		"nroOrden": 49,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/049/049.png",
+		"imagen": "https://www.ign.gob.ar/teselas/049/049.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Salta",
 		"titulo": "Mapa de la provincia de Salta : preparado para el Consejo Nacional de Educación / por el Instituto Geográfico Militar",
@@ -662,7 +662,7 @@
 	{
 		"nroOrden": 50,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/050/050.png",
+		"imagen": "https://www.ign.gob.ar/teselas/050/050.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de San Juan",
 		"titulo": "[Mapa de la provincia de San Juan] / Estado Mayor General, III Division, “Instituto Geográfico Militar”",
@@ -675,7 +675,7 @@
 	{
 		"nroOrden": 51,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/051/051.png",
+		"imagen": "https://www.ign.gob.ar/teselas/051/051.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la Provincia de San Juan",
 		"titulo": "Mapa de la Provincia de San Juan / Abraham Caputo Jefe de Sección ;  Salvador Grecol dibujante",
@@ -688,7 +688,7 @@
 	{
 		"nroOrden": 52,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/052/052.png",
+		"imagen": "https://www.ign.gob.ar/teselas/052/052.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de San Juan",
 		"titulo": "Mapa de la provincia de San Juan / preparado e impreso por el Instituto Geográfico Militar",
@@ -701,7 +701,7 @@
 	{
 		"nroOrden": 53,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/053/053.png",
+		"imagen": "https://www.ign.gob.ar/teselas/053/053.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Red Caminera de la Provincia de San Juan",
 		"titulo": "Red Caminera de la Provincia de San Juan / dibujaron E. Guevara y A.T. Caputo",
@@ -714,7 +714,7 @@
 	{
 		"nroOrden": 54,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/054/054.png",
+		"imagen": "https://www.ign.gob.ar/teselas/054/054.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de San Luis",
 		"titulo": "Mapa de la provincia de San Luis / levantado y dibujado bajo los auspicios del Instituto Geografico Argentino por German Avé Lallemant",
@@ -727,7 +727,7 @@
 	{
 		"nroOrden": 55,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/055/055.png",
+		"imagen": "https://www.ign.gob.ar/teselas/055/055.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Registro grafico de las propiedades rurales de la provincia de San Luis",
 		"titulo": "Registro grafico de las propiedades rurales de la provincia de San Luis / construido por el Departamento de Obras Publicas de la provincia",
@@ -740,7 +740,7 @@
 	{
 		"nroOrden": 56,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/056/056.png",
+		"imagen": "https://www.ign.gob.ar/teselas/056/056.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de San Luis",
 		"titulo": "Provincia de San Luis",
@@ -753,7 +753,7 @@
 	{
 		"nroOrden": 57,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/057/057.png",
+		"imagen": "https://www.ign.gob.ar/teselas/057/057.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de San Luis",
 		"titulo": "Mapa de la provincia de San Luis / H.O.B.",
@@ -766,7 +766,7 @@
 	{
 		"nroOrden": 58,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/058/058.png",
+		"imagen": "https://www.ign.gob.ar/teselas/058/058.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Santa Fé",
 		"titulo": "Provincia de Santa Fé / construido por  C. Beyer, Ingeniero geógrafo de la Casa Editora",
@@ -780,7 +780,7 @@
 	{
 		"nroOrden": 59,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/059/059.png",
+		"imagen": "https://www.ign.gob.ar/teselas/059/059.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Santa Fé",
 		"titulo": "Provincia de Santa Fé : Registro gráfico / Construido con los datos recopilados por la Dirección de Obras Públicas y Geodesia en la Administración del Gobernador Dr. Don Juan J. Menchaca",
@@ -793,7 +793,7 @@
 	{
 		"nroOrden": 60,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/060/060.png",
+		"imagen": "https://www.ign.gob.ar/teselas/060/060.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Santa Fe",
 		"titulo": "Provincia de Santa Fe : registro gráfico / compilado por el Departamento Topográfico ; dibujado e impreso por los Talleres Gráficos del Instituto Geográfico Militar",
@@ -806,7 +806,7 @@
 	{
 		"nroOrden": 61,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/061/061.png",
+		"imagen": "https://www.ign.gob.ar/teselas/061/061.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Santa Fe",
 		"titulo": "Provincia de Santa Fe / Ejército Argentino, Instituto Geográfico Militar",
@@ -820,7 +820,7 @@
 	{
 		"nroOrden": 62,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/062/062.png",
+		"imagen": "https://www.ign.gob.ar/teselas/062/062.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Santiago del Estero",
 		"titulo": "Mapa de la provincia de Santiago del Estero : segun los datos oficiales mas modernos, conocimiento práctico del terreno y con modificaciones notables respecto a otros existentes / por Alejandro Gancedo, agrimensor",
@@ -833,7 +833,7 @@
 	{
 		"nroOrden": 63,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/063/063.png",
+		"imagen": "https://www.ign.gob.ar/teselas/063/063.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa General de la Provincia de Santiago del Estero",
 		"titulo": "Mapa General de la Provincia de Santiago del Estero / Construido bajo las Administraciones de los Sres. Gobernadores Don Pedro S. Barraza y Dr. José D. Santillan por Francisco David ; el dibujante Alfonso O. Carranza. ",
@@ -846,7 +846,7 @@
 	{
 		"nroOrden": 64,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/064/064.png",
+		"imagen": "https://www.ign.gob.ar/teselas/064/064.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa escolar de la Provincia de Santiago del Estero",
 		"titulo": "Mapa escolar de la Provincia de Santiago del Estero : construido con los datos mas modernos / por Pedro Cantos, cartógrafo ",
@@ -859,7 +859,7 @@
 	{
 		"nroOrden": 65,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/065/065.png",
+		"imagen": "https://www.ign.gob.ar/teselas/065/065.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de la provincia de Santiago del Estero",
 		"titulo": "Mapa de la provincia de Santiago del Estero / realizado por el Departamento Topografico de la Direccion Nacional de Mineria ",
@@ -872,7 +872,7 @@
 	{
 		"nroOrden": 66,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/066/066.png",
+		"imagen": "https://www.ign.gob.ar/teselas/066/066.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Tucuman",
 		"titulo": "Provincia de Tucuman",
@@ -885,7 +885,7 @@
 	{
 		"nroOrden": 67,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/067/067.png",
+		"imagen": "https://www.ign.gob.ar/teselas/067/067.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Provincia de Tucuman",
 		"titulo": "Provincia de Tucuman / Construido por C. Beyer, Ingeniero geógrafo de la Casa Editora",
@@ -899,7 +899,7 @@
 	{
 		"nroOrden": 68,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/068/068.png",
+		"imagen": "https://www.ign.gob.ar/teselas/068/068.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de Tucuman",
 		"titulo": "Mapa de Tucuman : correjido y aumentado con detalles oficiales y oficialmente aceptado / por Antonio M. Correa",
@@ -914,7 +914,7 @@
 	{
 		"nroOrden": 69,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/069/069.png",
+		"imagen": "https://www.ign.gob.ar/teselas/069/069.png",
 		"categoria": "cat-p",
 		"tituloCorto": "Mapa de Tucuman",
 		"titulo": "Mapa de Tucuman / realizado por el Ing. Adolfo G. Antoni",
@@ -927,7 +927,7 @@
 	{
 		"nroOrden": 70,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/070/070.png",
+		"imagen": "https://www.ign.gob.ar/teselas/070/070.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Expedicion Fontana. Plano del trayecto recorrido en el Territorio Nacional del Chubut",
 		"titulo": "Expedicion Fontana. Plano del trayecto recorrido en el Territorio Nacional del Chubut / [Jorge Luis Fontana] ; dibujado por Carlos Beyer",
@@ -940,7 +940,7 @@
 	{
 		"nroOrden": 71,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/071/071.png",
+		"imagen": "https://www.ign.gob.ar/teselas/071/071.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Plano Catastral de la Gobernacion del Chubut",
 		"titulo": "Plano Catastral de la Gobernacion del Chubut / por U.  Greiner, Ing. ",
@@ -953,7 +953,7 @@
 	{
 		"nroOrden": 72,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/072/072.png",
+		"imagen": "https://www.ign.gob.ar/teselas/072/072.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Territorio del Chubut",
 		"titulo": "Territorio del Chubut / Ministerio del Interior, Territorios Nacionales, Sección Registro Gráfico",
@@ -966,7 +966,7 @@
 	{
 		"nroOrden": 73,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/073/073.png",
+		"imagen": "https://www.ign.gob.ar/teselas/073/073.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Territorio Nacional del Chubut",
 		"titulo": "Territorio Nacional del Chubut / Ejército Argentino, Instituto Geográfico Militar",
@@ -980,7 +980,7 @@
 	{
 		"nroOrden": 74,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/074/074.png",
+		"imagen": "https://www.ign.gob.ar/teselas/074/074.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernacion del Chaco",
 		"titulo": "Gobernacion del Chaco / Paz Soldan",
@@ -994,7 +994,7 @@
 	{
 		"nroOrden": 75,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/075/075.png",
+		"imagen": "https://www.ign.gob.ar/teselas/075/075.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio Nacional del Chaco",
 		"titulo": "Mapa del Territorio Nacional del Chaco / dibujante Pacheco Garay",
@@ -1007,7 +1007,7 @@
 	{
 		"nroOrden": 76,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/076/076.png",
+		"imagen": "https://www.ign.gob.ar/teselas/076/076.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio del Chaco",
 		"titulo": "Mapa del Territorio del Chaco / preparado e impreso por el Instituto Geográfico Militar",
@@ -1020,7 +1020,7 @@
 	{
 		"nroOrden": 77,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/077/077.png",
+		"imagen": "https://www.ign.gob.ar/teselas/077/077.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Provincia Presidente Perón",
 		"titulo": "Provincia Presidente Perón / Ejército Argentino, Instituto Geográfico Militar",
@@ -1034,7 +1034,7 @@
 	{
 		"nroOrden": 78,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/078/078.png",
+		"imagen": "https://www.ign.gob.ar/teselas/078/078.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Provincia de Chaco",
 		"titulo": "Provincia de Chaco / Ministerio de Obras Públicas, Dirección de Catastro ",
@@ -1047,7 +1047,7 @@
 	{
 		"nroOrden": 79,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/079/079.png",
+		"imagen": "https://www.ign.gob.ar/teselas/079/079.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernacion de Formosa",
 		"titulo": "Gobernacion de Formosa / Paz Soldan",
@@ -1061,7 +1061,7 @@
 	{
 		"nroOrden": 80,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/080/080.png",
+		"imagen": "https://www.ign.gob.ar/teselas/080/080.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Carta geográfica del Territorio de Formosa",
 		"titulo": "Carta geográfica del Territorio de Formosa / construida por Ulpiano Cáceres",
@@ -1074,7 +1074,7 @@
 	{
 		"nroOrden": 81,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/081/081.png",
+		"imagen": "https://www.ign.gob.ar/teselas/081/081.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio Nacional de Formosa",
 		"titulo": "Mapa del Territorio Nacional de Formosa / preparado e impreso por el Instituto Geográfico Militar",
@@ -1087,7 +1087,7 @@
 	{
 		"nroOrden": 82,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/082/082.png",
+		"imagen": "https://www.ign.gob.ar/teselas/082/082.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Provincia de Formosa",
 		"titulo": "Provincia de Formosa : plano demostrativo de la subdivisión oficial / construido por la División Cartografía del Departamento Topografía ; dibujado por R. Martínez Sierra ",
@@ -1100,7 +1100,7 @@
 	{
 		"nroOrden": 83,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/083/083.png",
+		"imagen": "https://www.ign.gob.ar/teselas/083/083.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernacion de La Pampa",
 		"titulo": "Gobernacion de La Pampa / constr. Por A. Seelstrang",
@@ -1114,7 +1114,7 @@
 	{
 		"nroOrden": 84,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/084/084.png",
+		"imagen": "https://www.ign.gob.ar/teselas/084/084.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernacion de La Pampa",
 		"titulo": "Gobernacion de La Pampa / Gran Estado Mayor, 3a División,  Instituto Geográfico Militar",
@@ -1127,7 +1127,7 @@
 	{
 		"nroOrden": 85,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/085/085.png",
+		"imagen": "https://www.ign.gob.ar/teselas/085/085.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio de La Pampa",
 		"titulo": "Mapa del Territorio de La Pampa / preparado e impreso por el Instituto Geográfico Militar",
@@ -1140,7 +1140,7 @@
 	{
 		"nroOrden": 86,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/086/086.png",
+		"imagen": "https://www.ign.gob.ar/teselas/086/086.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Provincia Eva Perón",
 		"titulo": "Provincia Eva Perón / Ejército Argentino, Instituto Geográfico Militar ",
@@ -1154,7 +1154,7 @@
 	{
 		"nroOrden": 87,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/087/087.png",
+		"imagen": "https://www.ign.gob.ar/teselas/087/087.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernación de Los Andes",
 		"titulo": "Gobernación de Los Andes /Aquilino Fernandez",
@@ -1168,7 +1168,7 @@
 	{
 		"nroOrden": 88,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/088/088.png",
+		"imagen": "https://www.ign.gob.ar/teselas/088/088.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Plano provisorio del territorio de Los Andes",
 		"titulo": "Plano provisorio del territorio de Los Andes",
@@ -1181,7 +1181,7 @@
 	{
 		"nroOrden": 89,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/089/089.png",
+		"imagen": "https://www.ign.gob.ar/teselas/089/089.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Los Andes",
 		"titulo": "Los Andes / Dib. A. Cannizzaro",
@@ -1194,7 +1194,7 @@
 	{
 		"nroOrden": 90,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/090/090.png",
+		"imagen": "https://www.ign.gob.ar/teselas/090/090.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Territorio de Los Andes",
 		"titulo": "Territorio de Los Andes / Ingeniero Norberto B. Cobos",
@@ -1207,7 +1207,7 @@
 	{
 		"nroOrden": 91,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/091/091.png",
+		"imagen": "https://www.ign.gob.ar/teselas/091/091.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernacion de Misiones",
 		"titulo": "Gobernacion de Misiones / Paz Soldan",
@@ -1220,7 +1220,7 @@
 	{
 		"nroOrden": 92,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/092/092.png",
+		"imagen": "https://www.ign.gob.ar/teselas/092/092.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Territorio  Nacional de Misiones",
 		"titulo": "Territorio  Nacional de Misiones / compilado y construido en la Gobernación de Misiones durante la Administración del Dr. Héctor Barreyro por el Agrimensor Nacional Don Adolfo J. Pomar",
@@ -1233,7 +1233,7 @@
 	{
 		"nroOrden": 93,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/093/093.png",
+		"imagen": "https://www.ign.gob.ar/teselas/093/093.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio de Misiones",
 		"titulo": "Mapa del Territorio de Misiones / preparado e impreso por el Instituto Geográfico Militar",
@@ -1246,7 +1246,7 @@
 	{
 		"nroOrden": 94,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/094/094.png",
+		"imagen": "https://www.ign.gob.ar/teselas/094/094.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa de la Provincia de Misiones",
 		"titulo": "Mapa de la Provincia de Misiones / compilado y dibujado por la Direccion del Catastro Preparatorio, Departamento de Cartografía y Dibujo",
@@ -1259,7 +1259,7 @@
 	{
 		"nroOrden": 95,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/095/095.png",
+		"imagen": "https://www.ign.gob.ar/teselas/095/095.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernacion del Neuquen",
 		"titulo": "Gobernacion del Neuquen / constr. por A. Seelstrang",
@@ -1273,7 +1273,7 @@
 	{
 		"nroOrden": 96,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/096/096.png",
+		"imagen": "https://www.ign.gob.ar/teselas/096/096.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa de conjunto del Neuquen",
 		"titulo": "Mapa de conjunto del Neuquen / Gran Estado Mayor, IIIª Division, Instituto Geográfico Militar",
@@ -1286,7 +1286,7 @@
 	{
 		"nroOrden": 97,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/097/097.png",
+		"imagen": "https://www.ign.gob.ar/teselas/097/097.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio del Neuquén",
 		"titulo": "[Mapa del Territorio del Neuquén] /  Ministerio del Interior, Territorios Nacionales, Sección Registro Gráfico",
@@ -1299,7 +1299,7 @@
 	{
 		"nroOrden": 98,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/098/098.png",
+		"imagen": "https://www.ign.gob.ar/teselas/098/098.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio del Neuquén",
 		"titulo": "Mapa del Territorio del Neuquén / preparado e impreso por el Instituto Geográfico Militar",
@@ -1312,7 +1312,7 @@
 	{
 		"nroOrden": 99,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/099/099.png",
+		"imagen": "https://www.ign.gob.ar/teselas/099/099.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernacion del Rio Negro",
 		"titulo": "Gobernacion del Rio Negro / Paz Soldan",
@@ -1326,7 +1326,7 @@
 	{
 		"nroOrden": 100,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/100/100.png",
+		"imagen": "https://www.ign.gob.ar/teselas/100/100.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Plano general de la gobernacion del Rio Negro",
 		"titulo": "Plano general de la gobernacion del Rio Negro / Rómulo Sarmiento. ",
@@ -1339,7 +1339,7 @@
 	{
 		"nroOrden": 101,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/101/101.png",
+		"imagen": "https://www.ign.gob.ar/teselas/101/101.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa de la gobernación del Rio Negro",
 		"titulo": "Mapa de la gobernación del Rio Negro / Estado Mayor del Ejercito, IIIª Division, Instituto Geográfico Militar. Sección cartográfica.",
@@ -1352,7 +1352,7 @@
 	{
 		"nroOrden": 102,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/102/102.png",
+		"imagen": "https://www.ign.gob.ar/teselas/102/102.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio del Rio Negro",
 		"titulo": "Mapa del Territorio del Rio Negro: preparado para el Consejo Nacional de Educación / por el Instituto Geográfico Militar",
@@ -1365,7 +1365,7 @@
 	{
 		"nroOrden": 103,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/103/103.png",
+		"imagen": "https://www.ign.gob.ar/teselas/103/103.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Gobernacion de Santa Cruz",
 		"titulo": "Gobernacion de Santa Cruz / Paz Soldan",
@@ -1379,7 +1379,7 @@
 	{
 		"nroOrden": 104,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/104/104.png",
+		"imagen": "https://www.ign.gob.ar/teselas/104/104.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Patagonia",
 		"titulo": "Patagonia : Croquis de la Gobernación de Santa Cruz / por Ramon Lista",
@@ -1392,7 +1392,7 @@
 	{
 		"nroOrden": 105,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/105/105.png",
+		"imagen": "https://www.ign.gob.ar/teselas/105/105.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Territorio de Santa Cruz",
 		"titulo": "Territorio de Santa Cruz : Confeccionado de acuerdo con las ultimas exploraciones y mensuras conteniendo los datos de las concesiones hasta diciembre de 1926 / por el Ingeniero Civil Nicolás M. Herrera",
@@ -1405,7 +1405,7 @@
 	{
 		"nroOrden": 106,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/106/106.png",
+		"imagen": "https://www.ign.gob.ar/teselas/106/106.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio Nacional de Santa Cruz",
 		"titulo": "Mapa del Territorio Nacional de Santa Cruz / Instituto Geográfico Militar",
@@ -1418,7 +1418,7 @@
 	{
 		"nroOrden": 107,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/107/107.png",
+		"imagen": "https://www.ign.gob.ar/teselas/107/107.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Tierra del Fuego",
 		"titulo": "Tierra del Fuego : segun las exploraciones y los estudios efectuados por el Ingeniero Julio Popper 1886-1891 y las recopilaciones hidrográficas del Almirantazgo Británico",
@@ -1432,7 +1432,7 @@
 	{
 		"nroOrden": 108,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/108/108.png",
+		"imagen": "https://www.ign.gob.ar/teselas/108/108.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Territorio Nacional de Tierra del Fuego",
 		"titulo": "Territorio Nacional de Tierra del Fuego : plano demostrativo del estado de la tierra / J. Soldán, dibujante",
@@ -1445,7 +1445,7 @@
 	{
 		"nroOrden": 109,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/109/109.png",
+		"imagen": "https://www.ign.gob.ar/teselas/109/109.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Mapa del Territorio Nacional del Tierra de Fuego",
 		"titulo": "Mapa del Territorio Nacional del Tierra de Fuego / Instituto Geográfico Militar",
@@ -1458,7 +1458,7 @@
 	{
 		"nroOrden": 110,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/110/110.png",
+		"imagen": "https://www.ign.gob.ar/teselas/110/110.png",
 		"categoria": "cat-t",
 		"tituloCorto": "Territorio Nacional de Tierra del Fuego e Islas Malvinas",
 		"titulo": "Territorio Nacional de Tierra del Fuego e Islas Malvinas / Ejército Argentino, Instituto Geográfico Militar",
@@ -1472,7 +1472,7 @@
 	{
 		"nroOrden": 111,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/111/111.png",
+		"imagen": "https://www.ign.gob.ar/teselas/111/111.png",
 		"categoria": "cat-c",
 		"tituloCorto": "Plano de la Ciudad de Buenos-Aires",
 		"titulo": "Plano de la Ciudad de Buenos-Aires : Capital de la Republica Argentina : de los suburbios Boca y Barracas al Nord y de los pueblos limitrofos [sic] Belgrano y S. Jose de Flores / compilado y delineado envista de le [sic] los ultimos documentos oficiales  por J. B. A. Bianchi",
@@ -1485,7 +1485,7 @@
 	{
 		"nroOrden": 112,
 		"maxZoom": 6,
-		"imagen": "http://www.ign.gob.ar/teselas/112/112.png",
+		"imagen": "https://www.ign.gob.ar/teselas/112/112.png",
 		"categoria": "cat-c",
 		"tituloCorto": "Plano del territorio cedido á la Nacion para ensanche de la Capital Federal",
 		"titulo": "Plano del territorio cedido á la Nacion para ensanche de la Capital Federal : con indicacion del límite definitivamente adoptado ",
@@ -1498,7 +1498,7 @@
 	{
 		"nroOrden": 113,
 		"maxZoom": 7,
-		"imagen": "http://www.ign.gob.ar/teselas/113/113.png",
+		"imagen": "https://www.ign.gob.ar/teselas/113/113.png",
 		"categoria": "cat-c",
 		"tituloCorto": "Plano de la Ciudad de Buenos Aires",
 		"titulo": "Plano de la Ciudad de Buenos Aires : capital de la Republica Argentina : con el trazado general de calles",
@@ -1511,7 +1511,7 @@
 	{
 		"nroOrden": 114,
 		"maxZoom": 7,
-		"imagen": "http://www.ign.gob.ar/teselas/114/114.png",
+		"imagen": "https://www.ign.gob.ar/teselas/114/114.png",
 		"categoria": "cat-c",
 		"tituloCorto": "Plano de la Ciudad de Buenos Aires",
 		"titulo": "Plano de la Ciudad de Buenos Aires : República Argentina / Ministerio de Guerra, Instituto Geográfico Militar",
