@@ -39,3 +39,4 @@ Usar el visualizador
 
  1. Clonar este repositorio o descargarlo como comprimido
  2. Ubicar el repositorio mapasHistoricos dentro del directorio raíz del servidor web y el de las teselas generadas, en el mismo lugar con el nombre "teselas".
+ 3. Copiar el archivo dentro del directorio sample-data a data (si no existe ese directorio debe ser creado) y editar el archivo con la información correspondiente a las imágenes escaneadas y teseladas.
